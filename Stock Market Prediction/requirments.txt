@@ -1,0 +1,7 @@
+math
+random
+quandl
+pandas
+sklearn
+plotly
+warnings
